@@ -15,6 +15,13 @@ This repository is a collection of games created using [Decker](https://github.c
 - Simple puzzles and branching paths
 - A surreal, minimalist narrative
 
+<img width="872" height="615" alt="image" src="https://github.com/user-attachments/assets/e8c2d8f4-b468-451f-992b-f56c95ff5264" />
+
+<img width="983" height="709" alt="image" src="https://github.com/user-attachments/assets/a382a38a-9a43-4e29-9aa8-535563a1811f" />
+
+<img width="863" height="609" alt="image" src="https://github.com/user-attachments/assets/0793b8b4-02b7-4410-875c-b2699b58a3ff" />
+
+
 To play, simply open the `the-door.deck` file in Decker.
 
 ## How to Run the Game
