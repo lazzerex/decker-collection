@@ -9,7 +9,7 @@ This repository is a collection of games created using [Decker](https://github.c
 
 ## Featured Game: 
 
-### "The Door"
+### The Door
 
 **"The Door"** is my first game made with Decker. It is a short, surreal puzzle experience where you wake up in a mysterious white room and must make choices that lead to different endings. The game features:
 
@@ -24,7 +24,7 @@ This repository is a collection of games created using [Decker](https://github.c
 <img width="863" height="609" alt="image" src="https://github.com/user-attachments/assets/0793b8b4-02b7-4410-875c-b2699b58a3ff" />
 
 
-### "The Path"
+### The Path
 
 **"The Path"** is the sequel to "The Door." After escaping the white room, the protagonist finds themselves in a distorted world where reality and memory blur. As you explore, surreal events unfold, philosophical questions arise, and you may discover a hidden truth about your existence.
 
@@ -34,6 +34,12 @@ The game features:
 - A branching narrative with philosophical and dreamlike dialogue
 - Hidden objects and scenes to discover
 - A unique visual and narrative style inspired by liminal spaces and existential themes
+
+<img width="993" height="700" alt="image" src="https://github.com/user-attachments/assets/6cb8b2a6-6960-42ca-b53e-4b6be63de2fe" />
+
+<img width="998" height="696" alt="image" src="https://github.com/user-attachments/assets/3dd7c470-a89f-4478-adc7-97a30ac5d653" />
+
+<img width="991" height="656" alt="image" src="https://github.com/user-attachments/assets/e94aebdb-0b58-4fba-9eb1-9c294e71b46b" />
 
 
 ## How to Run the Games
