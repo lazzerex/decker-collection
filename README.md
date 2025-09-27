@@ -7,7 +7,9 @@ This repository is a collection of games created using [Decker](https://github.c
 - Each game is a standalone `.deck` file playable in Decker.
 - The collection will grow over time as I experiment with new ideas, puzzles, and surreal experiences.
 
-## Featured Game: "The Door"
+## Featured Game: 
+
+### "The Door"
 
 **"The Door"** is my first game made with Decker. It is a short, surreal puzzle experience where you wake up in a mysterious white room and must make choices that lead to different endings. The game features:
 
@@ -22,16 +24,26 @@ This repository is a collection of games created using [Decker](https://github.c
 <img width="863" height="609" alt="image" src="https://github.com/user-attachments/assets/0793b8b4-02b7-4410-875c-b2699b58a3ff" />
 
 
-To play, simply open the `the-door.deck` file in Decker.
+### "The Path"
 
-## How to Run the Game
+**"The Path"** is the sequel to "The Door." After escaping the white room, the protagonist finds themselves in a distorted world where reality and memory blur. As you explore, surreal events unfold, philosophical questions arise, and you may discover a hidden truth about your existence.
+
+The game features:
+
+- Multiple endings, including a secret true ending
+- A branching narrative with philosophical and dreamlike dialogue
+- Hidden objects and scenes to discover
+- A unique visual and narrative style inspired by liminal spaces and existential themes
+
+
+## How to Run the Games
 
 1. Download or clone this repository.
 2. Download [Decker](https://github.com/JohnEarnest/Decker) (available as a web app or desktop application).
-3. Open Decker and use the "Open" option to load `the-door.deck`.
+3. Open Decker and use the "Open" option to load the `.deck` file you want.
 4. Play the game directly in Decker.
 
-## Adding More Games
+---
 
 As I create more games with Decker, they will be added to this repository. Each game will have its own `.deck` file and a brief description.
 
