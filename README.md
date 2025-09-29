@@ -44,7 +44,7 @@ The game features:
 
 ### The Epilogue
 
-**"The Epilogue"** is the final chapter in the trilogy. After the secret ending of "The Path," you wander the limbo, collecting shards of memory. Each shard reveals a fragment of your life—joy, pain, hope, regret—while other choices lead to alternate endings. Only by gathering all shards do you face the truth.
+**"The Epilogue"** is the final chapter in the trilogy. After the secret ending of "The Path," you wander the limbo, collecting shards of memory. Each shard reveals a fragment of your life: joy, pain, hope, regret, while other choices lead to alternate endings. Only by gathering all shards do you face the truth.
 
 The game features:
 
@@ -52,6 +52,16 @@ The game features:
 - Four unique memory shards, each with its own story and question
 - Multiple philosophical endings based on your choices
 - A dramatic, looping finale that questions the nature of freedom and self
+- 
+<img width="996" height="677" alt="image" src="https://github.com/user-attachments/assets/e261e995-d221-4b23-9eb0-bfc89e23a6bc" />
+
+<img width="994" height="697" alt="image" src="https://github.com/user-attachments/assets/cbb644ad-607a-4456-8196-707e9f586de6" />
+
+<img width="997" height="700" alt="image" src="https://github.com/user-attachments/assets/93092f8b-3a72-4f8a-bb65-0984394759bc" />
+
+<img width="984" height="643" alt="image" src="https://github.com/user-attachments/assets/7563d394-64d8-4951-a0c7-16a5c07eb980" />
+
+<img width="995" height="691" alt="image" src="https://github.com/user-attachments/assets/dbcf273b-2163-4a0f-9b62-b82c809569a5" />
 
 
 ## How to Run the Games
