@@ -13,13 +13,13 @@ shadow:{"type":"button","size":[120,25],"pos":[243,95],"script":"LimboHub.1","te
 
 {script:LimboHub.0}
 on click do
-  go["MemoryBlue"]
+  go["MemoryBlue" "BoxIn"]
 end
 {end}
 
 {script:LimboHub.1}
 on click do
-  go["ShadowEnd"]
+  go["ShadowEnd" "SlideRight"]
 end
 {end}
 
@@ -31,7 +31,7 @@ next:{"type":"button","size":[120,30],"pos":[144,165],"script":"MemoryBlue.0","t
 
 {script:MemoryBlue.0}
 on click do
-  go["Limbo2"]
+  go["Limbo2" "BoxOut"]
 end
 {end}
 
@@ -44,13 +44,13 @@ mirror:{"type":"button","size":[126,30],"pos":[149,110],"script":"Limbo2.1","tex
 
 {script:Limbo2.0}
 on click do
-  go["MemoryRed"]
+  go["MemoryRed" "WipeUp"]
 end
 {end}
 
 {script:Limbo2.1}
 on click do
-  go["MirrorEnd"]
+  go["MirrorEnd" "SlideRight"]
 end
 {end}
 
@@ -62,7 +62,7 @@ next:{"type":"button","size":[120,30],"pos":[146,148],"script":"MemoryRed.0","te
 
 {script:MemoryRed.0}
 on click do
-  go["Limbo3"]
+  go["Limbo3" "BoxOut"]
 end
 {end}
 
@@ -75,13 +75,13 @@ void:{"type":"button","size":[120,25],"pos":[261,211],"script":"Limbo3.1","text"
 
 {script:Limbo3.0}
 on click do
-  go["MemoryGold"]
+  go["MemoryGold" "BoxOut"]
 end
 {end}
 
 {script:Limbo3.1}
 on click do
-  go["VoidEnd"]
+  go["VoidEnd" "WipeDown"]
 end
 {end}
 
@@ -93,7 +93,7 @@ next:{"type":"button","size":[120,30],"pos":[25,111],"script":"MemoryGold.0","te
 
 {script:MemoryGold.0}
 on click do
-  go["Limbo4"]
+  go["Limbo4" "WipeLeft"]
 end
 {end}
 
@@ -106,13 +106,13 @@ turn:{"type":"button","size":[120,25],"pos":[237,131],"script":"Limbo4.1","text"
 
 {script:Limbo4.0}
 on click do
-  go["MemoryBlack"]
+  go["MemoryBlack" "BoxIn"]
 end
 {end}
 
 {script:Limbo4.1}
 on click do
-  go["TurnEnd"]
+  go["TurnEnd" "SlideUp"]
 end
 {end}
 
@@ -124,7 +124,7 @@ next:{"type":"button","size":[120,30],"pos":[146,152],"script":"MemoryBlack.0","
 
 {script:MemoryBlack.0}
 on click do
-  go["FinalMemory"]
+  go["FinalMemory" "BoxIn"]
 end
 {end}
 
@@ -136,7 +136,7 @@ restart:{"type":"button","size":[80,25],"pos":[160,120],"script":"VoidEnd.0","te
 
 {script:VoidEnd.0}
 on click do
-  go["LimboHub"]
+  go["LimboHub" "BoxOut"]
 end
 {end}
 
@@ -166,7 +166,7 @@ next:{"type":"button","size":[120,30],"pos":[138,192],"script":"FinalMemory.0","
 
 {script:FinalMemory.0}
 on click do
-  go["Awakening"]
+  go["Awakening" "BoxIn"]
 end
 {end}
 
@@ -178,7 +178,7 @@ next:{"type":"button","size":[120,30],"pos":[140,116],"script":"Awakening.0","te
 
 {script:Awakening.0}
 on click do
-  go["Dissolution"]
+  go["Dissolution" "BoxIn"]
 end
 {end}
 
@@ -190,7 +190,7 @@ next:{"type":"button","size":[120,30],"pos":[142,155],"script":"Dissolution.0","
 
 {script:Dissolution.0}
 on click do
-  go["WhiteRoomLoop"]
+  go["WhiteRoomLoop" "BoxIn"]
 end
 {end}
 
@@ -203,12 +203,12 @@ white:{"type":"button","size":[100,30],"pos":[250,99],"script":"WhiteRoomLoop.0"
 
 {script:WhiteRoomLoop.0}
 on click do
-  go["WhiteRoomLoopEnd"]
+  go["WhiteRoomLoopEnd" "BoxIn"]
 end
 {end}
 
 {card:WhiteRoomLoopEnd}
 {widgets}
-prompt:{"type":"field","size":[380,80],"pos":[10,20],"locked":1,"align":"center","value":"\nThe cycle completes.\nMemory fades. Self dissolves. The burden lifts.\nIn the white room, there is no past, no pain, no you.\nPerhaps this is the only true freedom:\nTo be nothing at all."}
+prompt:{"type":"field","size":[380,80],"pos":[11,20],"locked":1,"align":"center","value":"\nThe cycle completes.\nMemory fades. Self dissolves. The burden lifts.\nIn the white room, there is no past, no pain, no you.\nPerhaps this is the only true freedom.\nTo be nothing at all."}
 restart:{"type":"button","size":[80,25],"pos":[160,120],"script":"VoidEnd.0","text":"Begin Again","style":"rect"}
 
