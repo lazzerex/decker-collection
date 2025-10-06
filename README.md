@@ -1,6 +1,6 @@
 # Decker Games Collection
 
-This repository is a collection of games created using [Decker](https://github.com/JohnEarnest/Decker), a multimedia tool by John Earnest for building interactive, hypermedia experiences. All games in this repository are designed and authored by me as personal creative projects.
+This repository is a collection of games I made using [Decker](https://github.com/JohnEarnest/Decker), a multimedia tool by John Earnest for building interactive, hypermedia experiences. All games in this repository are designed and authored by me as personal creative projects.
 
 ## About This Repository
 
